@@ -19,6 +19,4 @@ Obtener un rol como **Analista SOC Junior**, combinando habilidades técnicas co
 
 📬 ¿Quieres colaborar o compartir ideas? ¡Estoy abierto a proyectos, retos técnicos y conversaciones sobre seguridad ofensiva y defensiva!
 
-AndersonPulidoA/AndersonPulidoA is a ✨ special ✨ repository because its ```README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
