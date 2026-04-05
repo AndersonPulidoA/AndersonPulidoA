@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Anderson
 
-🔐 Apasionado por la **ciberseguridad práctica**, con enfoque en roles SOC, automatización y análisis. Me gusta construir herramientas que resuelvan problemas reales, desde scripts en Bash hasta flujos de análisis en Python.
+🔐 Apasionado por la **ciberseguridad práctica**, con enfoque en roles SOC/DFIR, automatización y análisis. Me gusta construir herramientas que resuelvan problemas reales, desde scripts en Bash hasta flujos de análisis en Python.
 
 ##  Actualmente estoy trabajando en:
 -  Automatización de tareas de reconocimiento y análisis con Bash
@@ -13,7 +13,7 @@
 - [`SOC-Portfolio-Anderson`](https://github.com/AndersonPulidoA/SOC-Portfolio-Anderson): Scripts, herramientas y documentación para entornos SOC y análisis técnico.
 
 ##  Objetivo profesional
-Obtener un rol como **Analista SOC Junior**, combinando habilidades técnicas con pensamiento operativo y enfoque en soluciones automatizadas.
+Obtener un rol como **Analista SOC/DFIR Junior**, combinando habilidades técnicas con pensamiento operativo y enfoque en soluciones automatizadas.
 
 ---
 
